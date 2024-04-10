@@ -1,5 +1,5 @@
 {
-    "name": "php-mqtt/laravel-client",
+    "name": "angry-big-cat/laravel-client",
     "description": "A wrapper for the php-mqtt/client library for Laravel.",
     "type": "library",
     "keywords": [
